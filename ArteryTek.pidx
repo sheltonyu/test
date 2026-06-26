@@ -1,0 +1,8 @@
+<index schemaVersion="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="PackIndex.xsd">
+  <vendor>ArteryTek</vendor>
+  <url></url>
+  <timestamp>2024-08-08T06:30:00</timestamp>
+  <vindex>
+    <pidx vendor="ArteryTek" url="https://github.com/sheltonyu/test/raw/main/"/>
+  </vindex>
+</index>
